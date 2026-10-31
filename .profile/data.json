@@ -1,0 +1,672 @@
+{
+ "key": "370abce4",
+ "stars": 2,
+ "contributions": 221,
+ "repos": 50,
+ "followers": 5,
+ "languages": [
+  [
+   "Java",
+   1537095
+  ],
+  [
+   "Python",
+   14064
+  ],
+  [
+   "HTML",
+   11140
+  ],
+  [
+   "C",
+   7588
+  ],
+  [
+   "CSS",
+   7384
+  ],
+  [
+   "JavaScript",
+   2733
+  ],
+  [
+   "PureBasic",
+   2308
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 1,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 8,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 17,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 8,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 31,
+    "today": true
+   }
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 9
+ },
+ "pins": [
+  {
+   "name": "cog-plugin-examples",
+   "url": "https://github.com/omar-haidar/cog-plugin-examples",
+   "text": "Plugins for Code On The Go",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "IconsRepository-Plugin",
+   "url": "https://github.com/omar-haidar/IconsRepository-Plugin",
+   "text": "IconsRepository plugin for CodeOnTheGo IDE",
+   "fork": false,
+   "stars": 1,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "Android-Netty-Proxy",
+   "url": "https://github.com/omar-haidar/Android-Netty-Proxy",
+   "text": "Simple proxy server android application used `Netty-Library`",
+   "fork": false,
+   "stars": 1,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "MaterialNote",
+   "url": "https://github.com/omar-haidar/MaterialNote",
+   "text": "Simple Note project for android by java language for 'svu",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "OMH-Language",
+   "url": "https://github.com/omar-haidar/OMH-Language",
+   "text": "My own programming language",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "Sketchware-Pro",
+   "url": "https://github.com/omar-haidar/Sketchware-Pro",
+   "text": "Sketchware Pro's sources in Java. Now anyone can contribute to Sketchware Pro.",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "IconsRepository-Plugin",
+   "url": "https://github.com/omar-haidar/IconsRepository-Plugin",
+   "text": "IconsRepository plugin for CodeOnTheGo IDE",
+   "fork": false,
+   "stars": 1,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "Android-Netty-Proxy",
+   "url": "https://github.com/omar-haidar/Android-Netty-Proxy",
+   "text": "Simple proxy server android application used `Netty-Library`",
+   "fork": false,
+   "stars": 1,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "AndroidIDE",
+   "url": "https://github.com/omar-haidar/AndroidIDE",
+   "text": "",
+   "fork": true,
+   "stars": 1,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "img-flasher",
+   "url": "https://github.com/omar-haidar/img-flasher",
+   "text": "Img Flasher : flash , extract , unpack , repack img files",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "SubFlow",
+   "url": "https://github.com/omar-haidar/SubFlow",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "VRKA-Android",
+   "url": "https://github.com/omar-haidar/VRKA-Android",
+   "text": "Native Android media downloader for VRKA with direct extraction and browser-assisted stream discovery.",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "Lord-V2RAY",
+   "url": "https://github.com/omar-haidar/Lord-V2RAY",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "Android-MCP-Files-Agent",
+   "url": "https://github.com/omar-haidar/Android-MCP-Files-Agent",
+   "text": "An experimental Android app integrating Google Gemini AI with Model Context Protocol (MCP) for autonomous tasks like file management. Built with Java & Material Design 3.",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "android",
+    "api",
+    "mcp",
+    "mcp-client",
+    "mcp-server",
+    "mcp-servers",
+    "mcp-tools"
+   ]
+  },
+  {
+   "name": "GoTerminal",
+   "url": "https://github.com/omar-haidar/GoTerminal",
+   "text": "Terminal by termux bootstrap",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "build-proot-android",
+   "url": "https://github.com/omar-haidar/build-proot-android",
+   "text": "PRoot build scripts (and prebuilt binaries) for Android.",
+   "fork": true,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "Termo",
+   "url": "https://github.com/omar-haidar/Termo",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "XTerminal",
+   "url": "https://github.com/omar-haidar/XTerminal",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "omar-haidar",
+   "url": "https://github.com/omar-haidar/omar-haidar",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "null-code-ide",
+   "url": "https://github.com/omar-haidar/null-code-ide",
+   "text": "بيئة برمجة الأندرويد ، قيد التطوير",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "xterminal-packages",
+   "url": "https://github.com/omar-haidar/xterminal-packages",
+   "text": "A package build system for Termux.",
+   "fork": true,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "Kira",
+   "url": "https://github.com/omar-haidar/Kira",
+   "text": "A simple app to boost performance by stopping background apps, relying on Root/Shizuku permissions.",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "gemini-chat-app-console",
+   "url": "https://github.com/omar-haidar/gemini-chat-app-console",
+   "text": "Console ai chat by python with Gemini",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "cog-plugin-examples",
+   "url": "https://github.com/omar-haidar/cog-plugin-examples",
+   "text": "Plugins for Code On The Go",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "TaskManager",
+   "url": "https://github.com/omar-haidar/TaskManager",
+   "text": "A Task Manager for android",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "http-proxy-netty",
+   "url": "https://github.com/omar-haidar/http-proxy-netty",
+   "text": "An implementation of http/https proxy server based on Java NIO via Netty.",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "Sketchware-Pro",
+   "url": "https://github.com/omar-haidar/Sketchware-Pro",
+   "text": "Sketchware Pro's sources in Java. Now anyone can contribute to Sketchware Pro.",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "soraX",
+   "url": "https://github.com/omar-haidar/soraX",
+   "text": "Modified version of sora editor",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "groovy-language-server-master",
+   "url": "https://github.com/omar-haidar/groovy-language-server-master",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "OMH-Language",
+   "url": "https://github.com/omar-haidar/OMH-Language",
+   "text": "My own programming language",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "MH-TextEditor",
+   "url": "https://github.com/omar-haidar/MH-TextEditor",
+   "text": "MH TextEditor is an optimized large text/code editor for Android",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "Alerter",
+   "url": "https://github.com/omar-haidar/Alerter",
+   "text": "An Android Alerting Library",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "sockshttp",
+   "url": "https://github.com/omar-haidar/sockshttp",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "MaterialNote",
+   "url": "https://github.com/omar-haidar/MaterialNote",
+   "text": "Simple Note project for android by java language for 'svu",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "ApkStringDecryptor",
+   "url": "https://github.com/omar-haidar/ApkStringDecryptor",
+   "text": "Decrypt String in classes.dex without decompile",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "tinker",
+   "url": "https://github.com/omar-haidar/tinker",
+   "text": "Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "android-plugin-loader",
+   "url": "https://github.com/omar-haidar/android-plugin-loader",
+   "text": "Tiny Plugin System for Android",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "super-video-downloader",
+   "url": "https://github.com/omar-haidar/super-video-downloader",
+   "text": "Video & Audio downloader for Android with web browser and player. M3U8 and MPD supported, live stream supported, using youtube-dlp and custom mp4/mp3 downloader, cookies supported, HTTP proxy supported",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "openjdk-8-android",
+   "url": "https://github.com/omar-haidar/openjdk-8-android",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "CodeAssist",
+   "url": "https://github.com/omar-haidar/CodeAssist",
+   "text": "Experimental IDE for building Android applicatons on Android.",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "termux-app",
+   "url": "https://github.com/omar-haidar/termux-app",
+   "text": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "CodeAssist-Unofficial",
+   "url": "https://github.com/omar-haidar/CodeAssist-Unofficial",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "svu-project-web201",
+   "url": "https://github.com/omar-haidar/svu-project-web201",
+   "text": "Simple web project for svu student.",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "groovy-language-server",
+   "url": "https://github.com/omar-haidar/groovy-language-server",
+   "text": "A language server for Groovy — designed for Moonshine IDE, but may be useful in other environments",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "simple-v2ray-server",
+   "url": "https://github.com/omar-haidar/simple-v2ray-server",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Cloudflare_vless_trojan",
+   "url": "https://github.com/omar-haidar/Cloudflare_vless_trojan",
+   "text": "CF-workers/pages代理脚本【Vless与Trojan】：支持nat64自动生成proxyip，一键自建proxyip与CF反代IP，CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳优选IP",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "v2ray-worker",
+   "url": "https://github.com/omar-haidar/v2ray-worker",
+   "text": "Total solution for V2Ray over Cloudflare's worker",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "v2ray-refiner",
+   "url": "https://github.com/omar-haidar/v2ray-refiner",
+   "text": "Use Cloudflare Workers to access your v2ray Vmess, Vless and Trojan configs through Websockets.",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "cn-edge-tunnel",
+   "url": "https://github.com/omar-haidar/cn-edge-tunnel",
+   "text": "Based on the original version, the display of VLESS configuration information is modified to convert it into subscription content. Using this script, you can easily convert VLESS configuration information to tools such as Clash or Singbox using online configuration.",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "ed-tunnel-plus",
+   "url": "https://github.com/omar-haidar/ed-tunnel-plus",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "edgeTunnel",
+   "url": "https://github.com/omar-haidar/edgeTunnel",
+   "text": "可部署在CF Worker 的edgeTunnel，基于天书8.0",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Bug-Host-All-Operator",
+   "url": "https://github.com/omar-haidar/Bug-Host-All-Operator",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "workers-for-platforms-example",
+   "url": "https://github.com/omar-haidar/workers-for-platforms-example",
+   "text": "A great place for platforms to get started on Cloudflare Workers!",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "ed-tunnel",
+   "url": "https://github.com/omar-haidar/ed-tunnel",
+   "text": "Use Cloudflare pages and worker serverless to implement VLESS protocol",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "ArscEditor",
+   "url": "https://github.com/omar-haidar/ArscEditor",
+   "text": "An open source editor for resources.arsc with GUI.",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "Update",
+   "url": "https://github.com/omar-haidar/Update",
+   "text": "Used for check if have new version for my apps.",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  }
+ ]
+}
