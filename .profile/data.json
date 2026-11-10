@@ -1,5 +1,5 @@
 {
- "key": "fcd3034f",
+ "key": "73e8d65",
  "stars": 2,
  "contributions": 223,
  "repos": 50,
@@ -118,9 +118,13 @@
    {
     "c": 0,
     "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
     "today": true
    },
-   null,
    null,
    null,
    null,
